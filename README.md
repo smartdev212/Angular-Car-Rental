@@ -1,6 +1,6 @@
 # Car-Rental
 the car rental website based on Angular 4.0 + Express + MongoDB
 
-[Live Demo](http://utdcarrental.com)
+![car-rental](https://user-images.githubusercontent.com/39386289/53238136-32b70300-36a1-11e9-9cd2-5dfc0f8f8649.png)
 
-Thanks to collaborators: [@Codeternity](https://github.com/Codeternity) [@lulu9091](https://github.com/lulu9091) [@YidanSheng](https://github.com/YidanSheng)
+[Live Demo](http://utdcarrental.com)
